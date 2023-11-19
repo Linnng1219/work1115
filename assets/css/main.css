@@ -99,8 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #fffacd;
-		background-image: linear-gradient(to top, rgba(189, 183, 180,0.9), rgba(238, 232, 170,0.9)), url("../../images/bg.jpg");
+		background-color: #2e3141;
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
@@ -230,7 +230,7 @@ input, select, textarea {
 			}
 
 			a.special:not(.button):hover:before {
-				background-color: rgba(189, 183, 180,0.9);
+				background-color: rgba(255, 255, 255, 0.025);
 			}
 
 			a.special:not(.button):active:before {
